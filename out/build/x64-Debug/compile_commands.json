@@ -1,0 +1,254 @@
+[
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\GenericCodeGen.dir\\GenericCodeGen\\CodeGen.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\GenericCodeGen\\CodeGen.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\GenericCodeGen\\CodeGen.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\GenericCodeGen.dir\\GenericCodeGen\\CodeGen.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\GenericCodeGen.dir\\GenericCodeGen\\Link.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\GenericCodeGen\\Link.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\GenericCodeGen\\Link.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\GenericCodeGen.dir\\GenericCodeGen\\Link.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\glslang_tab.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\glslang_tab.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\glslang_tab.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\glslang_tab.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\attribute.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\attribute.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\attribute.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\attribute.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Constant.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Constant.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Constant.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Constant.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\iomapper.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\iomapper.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\iomapper.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\iomapper.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\InfoSink.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\InfoSink.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\InfoSink.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\InfoSink.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Initialize.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Initialize.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Initialize.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Initialize.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\IntermTraverse.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\IntermTraverse.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\IntermTraverse.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\IntermTraverse.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Intermediate.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Intermediate.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Intermediate.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Intermediate.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\ParseContextBase.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\ParseContextBase.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\ParseContextBase.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\ParseContextBase.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\ParseHelper.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\ParseHelper.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\ParseHelper.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\ParseHelper.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\PoolAlloc.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\PoolAlloc.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\PoolAlloc.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\PoolAlloc.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\RemoveTree.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\RemoveTree.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\RemoveTree.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\RemoveTree.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Scan.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Scan.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Scan.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Scan.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\ShaderLang.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\ShaderLang.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\ShaderLang.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\ShaderLang.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\SpirvIntrinsics.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\SpirvIntrinsics.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\SpirvIntrinsics.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\SpirvIntrinsics.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\SymbolTable.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\SymbolTable.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\SymbolTable.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\SymbolTable.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Versions.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Versions.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\Versions.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\Versions.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\intermOut.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\intermOut.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\intermOut.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\intermOut.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\limits.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\limits.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\limits.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\limits.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\linkValidate.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\linkValidate.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\linkValidate.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\linkValidate.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\parseConst.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\parseConst.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\parseConst.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\parseConst.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\reflection.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\reflection.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\reflection.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\reflection.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\Pp.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\Pp.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\Pp.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\Pp.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpAtom.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpAtom.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpAtom.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpAtom.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpContext.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpContext.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpContext.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpContext.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpScanner.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpScanner.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpScanner.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpScanner.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpTokens.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpTokens.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\preprocessor\\PpTokens.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\preprocessor\\PpTokens.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\propagateNoContraction.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\propagateNoContraction.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\MachineIndependent\\propagateNoContraction.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\MachineIndependent.dir\\MachineIndependent\\propagateNoContraction.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\glslang.dir\\CInterface\\glslang_c_interface.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\CInterface\\glslang_c_interface.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\CInterface\\glslang_c_interface.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\CMakeFiles\\glslang.dir\\CInterface\\glslang_c_interface.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\glslang\\OSDependent\\Windows\\CMakeFiles\\OSDependent.dir\\ossource.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\OSDependent\\Windows\\ossource.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\glslang\\OSDependent\\Windows\\ossource.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\glslang\\OSDependent\\Windows\\CMakeFiles\\OSDependent.dir\\ossource.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\OGLCompilersDLL\\CMakeFiles\\OGLCompiler.dir\\InitializeDll.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\OGLCompilersDLL\\InitializeDll.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\OGLCompilersDLL\\InitializeDll.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\OGLCompilersDLL\\CMakeFiles\\OGLCompiler.dir\\InitializeDll.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\GlslangToSpv.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\GlslangToSpv.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\GlslangToSpv.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\GlslangToSpv.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\InReadableOrder.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\InReadableOrder.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\InReadableOrder.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\InReadableOrder.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\Logger.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\Logger.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\Logger.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\Logger.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\SpvBuilder.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\SpvBuilder.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\SpvBuilder.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\SpvBuilder.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\SpvPostProcess.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\SpvPostProcess.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\SpvPostProcess.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\SpvPostProcess.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\doc.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\doc.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\doc.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\doc.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\SpvTools.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\SpvTools.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\SpvTools.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\SpvTools.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\disassemble.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\disassemble.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\disassemble.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\disassemble.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASSET_DIR=C:/Users/Mansoor/Desktop/453_HW1_Final/453VulkanStarter/assets -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_WIN32 -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\.. -IC:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\out\\build\\x64-Debug\\include /DWIN32 /D_WINDOWS /W3 /GR-  /MP /Qpar /MDd /Zi /Ob0 /Od /RTC1 /D_HAS_EXCEPTIONS=0 /FoVulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\CInterface\\spirv_c_interface.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\CInterface\\spirv_c_interface.cpp",
+  "file": "C:\\Users\\Mansoor\\Desktop\\453_HW1_Final\\453VulkanStarter\\VulkanLaunchpad\\external\\glslang\\SPIRV\\CInterface\\spirv_c_interface.cpp",
+  "output": "VulkanLaunchpad\\external\\glslang\\SPIRV\\CMakeFiles\\SPIRV.dir\\CInterface\\spirv_c_interface.cpp.obj"
+}
+]
