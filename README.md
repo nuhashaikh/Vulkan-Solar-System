@@ -1,12 +1,13 @@
 
 # Instructions
 
-1. Clone the repo 
-2. cd build
-3.  cd HW4
-4. cmake ..
-5. make -j10
-6. ./HW4
+1. Clone the repo
+2. mkdir build
+3. cd build
+4. cd HW4
+5. cmake ..
+6. make -j10
+7. ./HW4
 
 # Spheres and Texture Coordinates
 
@@ -22,6 +23,8 @@ For loading texture coordinates I followed the same principles as HW3:
 
 Using these textures I created a sphere with the given formula:
 color = texture(texSamplerSun, vec2((time1 / sunRotationPeriod) + 0.5 \* theta / PI, phi / PI));
+![image](https://github.com/nuhashaikh/Vulkan-Solar-System/assets/73035984/c6161c38-6524-41bc-b4ee-50410c98a3e1)
+
 
 # Ray Tracing
 
@@ -42,3 +45,5 @@ Applies phong shading model with the sun as the light source. Account for diffus
 # Shadow Rays
 
 I have shadow rays implemented as well.
+![image](https://github.com/nuhashaikh/Vulkan-Solar-System/assets/73035984/920d5ae2-5997-4d7a-a39b-e0180b22e063)
+
