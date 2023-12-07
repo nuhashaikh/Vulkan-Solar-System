@@ -11,7 +11,11 @@
 
 # Spheres and Texture Coordinates
 
-For loading texture coordinates I followed the same principles as HW3:
+For texture mapping I followed the principles highlighted in Vulkan tutorials:
+https://vulkan-tutorial.com/Texture_mapping/Images
+https://vulkan-tutorial.com/Texture_mapping/Image_view_and_sampler
+https://vulkan-tutorial.com/Texture_mapping/Combined_image_sampler
+
 1. Read pixels using stbi library
 2. created Vulkan image
 3. created image view
